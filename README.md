@@ -1,17 +1,25 @@
 <!-- BANNIERE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Swentee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=splint314&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">splint314</h1>
-<p align="center">💻 Développement • ⚙️ Systèmes • 🔧 Optimisation</p>
+<p align="center">💻 Informatique • ⚙️ Systèmes • 🔧 Optimisation</p>
 
 ---
 
 ## 👨‍💻 Présentation
 
 Étudiant à **Holberton School Toulouse**, je me spécialise dans le développement et les systèmes informatiques.  
-Mon objectif est de devenir **expert en cybersécurité** et/ou **développeur fullstack**, avec une forte base technique.
+Mon objectif est de devenir **expert en cybersécurité** et **développeur fullstack**, avec une forte base technique.
+
+---
+
+## 🧍 À propos de moi
+
+Je suis passionné par l’univers du PC depuis petit.  
+J’ai commencé par démonter des consoles, puis à passer des heures à explorer des forums de modding et de hardware.  
+Avec le temps, cette curiosité est devenue une vraie direction, que j’ai concrétisée aujourd’hui avec une formation en informatique.
 
 ---
 
@@ -24,7 +32,6 @@ Mon objectif est de devenir **expert en cybersécurité** et/ou **développeur f
 
 ---
 
-## 🛠️ Technologies
 
 ### 💻 Langages
 <p>
