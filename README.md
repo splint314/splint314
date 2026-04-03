@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- BANNIERE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Swentee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**splint314/splint314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">splint314</h1>
+<p align="center">💻 Développement • ⚙️ Systèmes • 🔧 Optimisation</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Présentation
+
+Étudiant à **Holberton School Toulouse**, je me spécialise dans le développement et les systèmes informatiques.  
+Mon objectif est de devenir **expert en cybersécurité** et/ou **développeur fullstack**, avec une forte base technique.
+
+---
+
+## 🧠 À propos
+
+- Expérience en **supervision informatique (Capgemini)**
+- Intérêt marqué pour les **systèmes, le low-level et l’optimisation**
+- Approche : comprendre en profondeur, pas survoler
+- Actuellement focus : **C, mémoire, processus, architecture**
+
+---
+
+## 🛠️ Technologies
+
+### 💻 Langages
+<p>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Développement
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projets
+
+- 🔧 **Simple Shell** → création d’un shell en C  
+- 🖨️ **Printf** → implémentation custom de printf  
+- ⚙️ Projets perso : bots Discord pour streamers (notifications automatiques multi-plateformes)
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=splint314&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splint314&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+## ⚡ Mentalité
+
+> Comprendre > exécuter sans réfléchir
+
+---
+
+## 📫 Contact
+
+- Discord : splint314
+- GitHub : https://github.com/splint314
+
+---
+
+<p align="center">
+  Toujours en train d’optimiser.
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer"/>
+</p>
