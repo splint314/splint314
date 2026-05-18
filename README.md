@@ -18,17 +18,16 @@ Mon objectif est de devenir **expert en cybersécurité** et **développeur full
 ## 🧍 À propos de moi
 
 Je suis passionné par l’univers du PC depuis petit.  
-J’ai commencé par démonter des consoles, puis à passer des heures à explorer des forums de modding et de hardware.  
+J’ai commencé par démonter des consoles, puis à passer des heures à explorer des forums de modding et de hardware pour personnaliser mon expérience de jeu et en exploiter certains à leur pleins potentiels.  
 Avec le temps, cette curiosité est devenue une vraie direction, que j’ai concrétisée aujourd’hui avec une formation en informatique.
 
 ---
 
 ## 🧠 À propos
 
-- Expérience en **supervision informatique (Capgemini)**
 - Intérêt marqué pour les **systèmes, le low-level et l’optimisation**
 - Approche : comprendre en profondeur, pas survoler
-- Actuellement focus : **C, mémoire, processus, architecture**
+- App : **C, mémoire, processus, architecture**
 
 ---
 
@@ -48,6 +47,7 @@ Avec le temps, cette curiosité est devenue une vraie direction, que j’ai conc
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"/>
 </p>
 
 ---
@@ -80,6 +80,8 @@ Avec le temps, cette curiosité est devenue une vraie direction, que j’ai conc
 
 - Discord : splint314
 - GitHub : https://github.com/splint314
+- Email: krigal323@gmail.com
+- Linkedin: https://www.linkedin.com/in/kevin-rigal-80a331240/
 
 ---
 
