@@ -54,9 +54,10 @@ Avec le temps, cette curiosité est devenue une vraie direction, que j’ai conc
 
 ## 🚀 Projets
 
-- 🔧 **Simple Shell** → création d’un shell en C  
-- 🖨️ **Printf** → implémentation custom de printf  
-- ⚙️ Projets perso : bots Discord pour streamers (notifications automatiques multi-plateformes)
+- 🔧 **Simple Shell** → création d’un shell en C
+- 🖨️ **Printf** → implémentation custom de printf
+- ⚙️ **Projets perso** : bots Discord pour streamers → notifications automatiques multi-plateformes
+- 🌐 **Site vitrine pour la mairie de Paris** → Dans le cadre de nos premiers pas dans le html, j'ai eu l'honneur de faire un site pour la mairie de paris avec @rwanbt
 
 ---
 
